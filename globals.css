@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background: #0f0f0f;
+  color: #00ff88;
+  font-family: monospace;
+}
+
+button {
+  cursor: pointer;
+}
